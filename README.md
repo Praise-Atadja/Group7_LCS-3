@@ -7,3 +7,4 @@
 ![code for Q 2 loops](https://user-images.githubusercontent.com/105134294/180237826-949a18ef-3bfe-457e-a513-c1c3178f8d93.png)
 ![Screenshot negpod7LCS3](https://user-images.githubusercontent.com/105202770/180243185-168359be-90d0-48ba-88cb-0c991d73336a.png)
 
+<img width="638" alt="Dictionary output" src="https://user-images.githubusercontent.com/106454335/180274949-93af53e7-213a-4812-9366-c224fb8ed88b.png">
