@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+def list1(nums,targets):
+    for idi, i in enumerate(nums):
+        for idj, j in enumerate(nums):
+            if i+j==targets and idi != idj:
+                return (idi,idj)
+print(list1([2,7,11,15],9))
+print(list1([3,2,4],6))
+print(list1([3,3],6))
