@@ -1,0 +1,6 @@
+str=input("Enter a string: ")
+i=0
+while(i<len(str)):
+   if(str[i].lower() not in ['a','e','i','o','u','y']):
+       print(str[i],end=' ')
+   i+=1
